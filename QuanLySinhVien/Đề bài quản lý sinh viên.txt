@@ -1,0 +1,16 @@
+quản lý thông tin sinh viên bao gồm
+- tên 
+- mssv
+
+yêu cầu
+lưu thông tin sinh vien xuống csdl mysql. 
+hiển thị danh sách, tạo các chức năng dưới dạng 1 menu
++ Chọn chức năng:
+  -  kiểm soát tất cả dữ liệu nhập vào, chỉ cho phép nhập 2 lựa chọn đã cho sẵn, nhập sai 
+  thông báo lỗi vào yêu cầu nhập lại.
++ thêm sinh viên mới
+  -  Khi thêm lưu ý không cho mssv bị trùng nhau
+  -  tên sinh viên phải được chuẩn hóa
+     (viết hoa chữ đầu, khoảng cách các chữ cách nhau 1 space)
+	 Truong Tung Lam
++ xóa sinh viên trong danh sách.
